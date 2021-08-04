@@ -16,3 +16,11 @@ quando para Proxy.
  exemplo 2:
 
 ![refactoring](https://refactoring.guru/images/patterns/diagrams/proxy/solution-pt-br.png?id=639d07cfce75d09b50a3)
+
+
+    
+Fonte  
+[wikipedia](https://pt.wikipedia.org/wiki/Ficheiro:Proxy.png)  
+[sourcemaking]( https://sourcemaking.com/design_patterns/proxy)  
+[refactoring](https://refactoring.guru/pt-br/design-patterns/proxy)
+
