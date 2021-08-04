@@ -28,4 +28,4 @@ Fonte
 [sourcemaking]( https://sourcemaking.com/design_patterns/proxy)  
 [refactoring](https://refactoring.guru/pt-br/design-patterns/proxy)
 
-![](https://img.shields.io/badge/python-v3.9-informational?style=flat&logoColor=white&color=blue)![GitHub](https://img.shields.io/badge/licence-MIT-GREE) 
+![](https://img.shields.io/badge/python-v3.9-informational?style=flat&logoColor=white&color=blue)   ![GitHub](https://img.shields.io/badge/licence-MIT-GREE) 
